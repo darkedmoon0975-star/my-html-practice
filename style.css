@@ -1,9 +1,12 @@
 body{
   background-color:lightblue;
+  pading: 20px;
 }
 h1 {
   color:blue;
+  margin-botton: 20px;
 }
 p{
   font-size:50px;
 }
+
